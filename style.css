@@ -1,0 +1,24 @@
+button{
+
+    left: 850px;
+    
+    color: black;
+    text-decoration: none;
+    padding: 12px 40px;
+    border: none;
+    background-color:blue;
+    font-size: 16px;
+    border-radius: 5px; 
+    color: #fdfdff;
+    outline: none;
+    cursor: pointer;
+   
+}
+
+
+
+body{
+   
+   text-align: center;
+    background-image: linear-gradient(to right, rgb(54, 52, 52), rgb(244, 245, 248));
+}
